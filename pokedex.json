@@ -1,0 +1,30 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "nombre": "Inacora",
+      "tipoPokemon": [
+        "PLANTA",
+        "TIERRA"
+      ],
+      "nivel": 20,
+      "peso": 70.0,
+      "altura": 140.0,
+      "descripcion": "Come hierba",
+      "capturado": true
+    },
+    {
+      "id": 2,
+      "nombre": "Charmander shiny",
+      "tipoPokemon": [
+        "FUEGO"
+      ],
+      "nivel": 18,
+      "peso": 8.5,
+      "altura": 0.6,
+      "descripcion": "Pokemon fuego",
+      "capturado": true
+    }
+  ],
+  "ultimoId": 2
+}
